@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "874968948098",
+    "firebase_url": "https://led-web-mobile-default-rtdb.firebaseio.com",
+    "project_id": "led-web-mobile",
+    "storage_bucket": "led-web-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874968948098:android:fc3dbdbcf63d49ffddc39b",
+        "android_client_info": {
+          "package_name": "com.example.arduino_led"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874968948098-pqlfs5qu62ovgv1m796g6dui1pp7u8mj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEGIbXH8PDjEwVs-ICv40-5GwH9cmL7L4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874968948098-pqlfs5qu62ovgv1m796g6dui1pp7u8mj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
